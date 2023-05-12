@@ -1,0 +1,48 @@
+Name,Value(TWh/y),hierarchy,label
+China,"8312,8",country,source: wikipedia
+USA,"3989,566",country,source: wikipedia
+India,"1296,3",country,source: wikipedia
+Russia,"965,156",country,source: wikipedia
+Japan,"902,842",country,source: wikipedia
+Brazil,"597,234",country,source: wikipedia
+Canada,"549,263",country,source: wikipedia
+South Corea,"527,035",country,source: wikipedia
+Germany,"524,268",country,source: wikipedia
+France,"449,422",country,source: wikipedia
+Saudi Arabia,322372,country,source: wikipedia
+Indonesia,"307,566",country,source: wikipedia
+UK,"300,52",country,source: wikipedia
+Italy,"297,15",country,source: wikipedia
+Mexico,"267,91",country,source: wikipedia
+Iran,"254,724",country,source: wikipedia
+Turkey,"251,376",country,source: wikipedia
+Spain,"241,563",country,source: wikipedia
+Australia,"241,02",country,source: wikipedia
+Taiwan,"237,557",country,source: wikipedia
+Vietnam,"216,994",country,source: wikipedia
+South Africa,"210,304",country,source: wikipedia
+Thailand,"185,852",country,source: wikipedia
+Egypt,"150,579",country,source: wikipedia
+Ukraine,"128,806",country,source: wikipedia
+Poland,"152,573",country,source: wikipedia
+Malaysia,"147,209",country,source: wikipedia
+Norway,"131,931",country,source: wikipedia
+Sweden,"131,798",country,source: wikipedia
+Argentina,"125,03",country,source: wikipedia
+Netherlands,"110,682",country,source: wikipedia
+United Arab Emirates,"119,455",country,source: wikipedia
+Philippines,"93,354",country,source: wikipedia
+Kasakhstan,"91,668",country,source: wikipedia
+Pakistan,90,country,source: wikipedia
+Finland,"84,207",country,source: wikipedia
+Belgium,"82,051",country,source: wikipedia
+Venezuela,"64,66",country,source: wikipedia
+Bitcoin,100,BTC,source: common estimation
+Ethereum,"0,01",ETH,source: Digiconomist
+Paypal,"0,26",payment,"souce: ethereum,org"
+Netflix(own estimation),"0,45",entertainement,source: Netflix
+Youtube,244,entertainement,"source: ethereum,org"
+Netflix,94,entertainement,source: The shift project
+Pornography,250,entertainement,source: The shift project
+Banking system,100,payment,source: https://hackernoon.com/the-bitcoin-vs-visa-electricity-consumption-fallacy-8cf194987a50
+Centralised system,"0,00001",payment,source: beleive me
