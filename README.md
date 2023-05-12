@@ -2,7 +2,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.9-blue.svg)
 ![Tableau Version](https://img.shields.io/badge/Tableau-2023.1-blue.svg)
 
-[__Jumpertz Sacha__](www.linkedin.com/in/jumpertz-sacha)
+[__Jumpertz Sacha__](https://www.linkedin.com/in/jumpertz-sacha)
 
 Some time ago I discovered crypto currencies and their advantages: data ownership, decentralization, transparency,... I quickly got interested in the technology and to be honest in the possible profit promised by some "online crypto gurus". Given the controversial nature of cryptocurrencies I couldn’t stop hearing that they were only useless ponzi scheme with a disastrous impact on our beloved planet. 
 
