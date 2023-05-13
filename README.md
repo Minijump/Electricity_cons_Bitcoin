@@ -1,4 +1,4 @@
-# Electricity consumption of the Bitcoin network
+# Electricity consumption of the Bitcoin network.
 ![Python Version](https://img.shields.io/badge/Python-3.9-blue.svg)
 ![Tableau Version](https://img.shields.io/badge/Tableau-2023.1-blue.svg)
 
