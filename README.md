@@ -55,4 +55,13 @@ In the report we learn that the consumption of the network is a function of some
 
 ![dashboard](./Images/Dashboard.png)
 
+### Octobre 2026 edit
+Looking back at the data after four years, some conclusions stand out.
+- As noted in the previous work, miner revenue will decrease if Bitcoin's price does not continue to roughly double every four years. Until now, that pattern has mostly held, but the rate of increase has been slowing, and we may soon expect it to stop doubling.
+- As noted before, transaction fees should not be considered a serious way to reward miners for their work. The amount collected from fees is low compared with block rewards and does not appear to have changed materially.
+- More importantly, looking at total miner revenue, it seems it has stopped increasing. This is not surprising when we consider that Bitcoin's price has only multiplied by about 2 since the last halving.
+=> This raises a broader question: why would anyone invest time, energy and financial resources in Bitcoin mining if the rewards appear to be declining over time? Especially in an era when those same resources could instead be used to build what everyone is increasingly seeking: artificial intelligence. Who will secure the network? Who will use a network that is becoming less and less secure?
+
+You can find an HTML dashboard in the Results folder. This dashboard was built with 'Squirrel', a BI tool I am currently developing. Note that this 2026 update, like the dashboard itself, was produced without a deep analysis of the numbers.
+
 
